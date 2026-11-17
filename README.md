@@ -30,7 +30,7 @@ Version 0.1.0, built on herdr-app 0.1.16. What changed in each version is in
 Ask your agent, from a terminal in Herdr:
 
 ```
-Read ~/.config/herdr-app/AGENTS.md, then add this mod: herdr.dev/mods/noah4520/herdr-pr-list
+Read ~/.config/herdr-app/AGENTS.md, then add this mod: https://github.com/noah4520/herdr-pr-list
 ```
 
 It reads every file, copies the mod and puts its two blocks in your layout. Or do it
