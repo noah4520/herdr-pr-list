@@ -6,6 +6,9 @@ on your review, each with its review and check state.
 
 ![PR List](preview.png)
 
+The picture shows it in the [Herdr Glass](https://github.com/noah4520/herdr-glass)
+layout. It takes its colours from the theme, so it matches whatever layout it sits in.
+
 Version 0.1.0, built on herdr-app 0.1.16. What changed in each version is in
 [CHANGELOG.md](CHANGELOG.md).
 
